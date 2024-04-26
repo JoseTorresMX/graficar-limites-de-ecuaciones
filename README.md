@@ -44,6 +44,7 @@ La idea principal fue realizar una replica o aproximación de una grafica propor
 ![Ecuación a graficar.](img/ecuacion_a_graficar.png)
 
 Para llegar al objetivo de esta gráfica:
+
 ![Gráfica objetivo](img/grafica_objetivo.png)
 
 ## Empezando
