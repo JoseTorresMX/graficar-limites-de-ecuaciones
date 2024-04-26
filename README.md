@@ -60,6 +60,7 @@ Las contribuciones son lo que hacen a la comunidad de código abierto un lugar i
 
 ## Versionado
 Se uso [Git](https://git-scm.com) para el versionado del proyecto.
+
 [![GIT](https://img.shields.io/badge/GIT-gray?style=for-the-badge&logo=git&link=https://git-scm.com/)](https://git-scm.com/)
 
 [![github](https://img.shields.io/badge/github-gray?style=for-the-badge&logo=github&link=https://github.com/)](https://github.com/)
