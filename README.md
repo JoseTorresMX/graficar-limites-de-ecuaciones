@@ -73,7 +73,7 @@ Se uso [Git](https://git-scm.com) para el versionado del proyecto.
 [![Josetorresmx](https://img.shields.io/badge/Josetorresmx-01579B?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/josetorresmx/)](https://www.linkedin.com/in/josetorresmx/)
 
 ## Licencia
-Este proyecto esta bajo la licencia MIT - ve el archivo [LICENSE.md](LICENSE.md). Para mas detalles [MIT](https://choosealicense.com/licenses/mit/)
+Este proyecto esta bajo la licencia MIT - ve el archivo [LICENSE.md](LICENSE). Para mas detalles [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Expresiones de Gratitud
 Estoy agradecido a la comunidad de Python, sobre todo a las comunidades de Facebook a los que estoy admitido, las cuales los miembros se toman el tiempo de brindar consejos, guías, ayudas, etc.
