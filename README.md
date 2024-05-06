@@ -1,12 +1,6 @@
 # StreamGrapher
 El proyecto StreamGrapher, **Stream** por _Streamlit_ y **Grapher** por _Gráfico_, es un visualizador de datos, que muestra una gráfica de limites de ecuaciones.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
 ## Descripción
 **StreamGrapher**, es una aplicación web sencilla que ofrece una plataforma intuitiva para la visualización de datos.
 Utilizando la potencia de:
